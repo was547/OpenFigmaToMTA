@@ -1,0 +1,14 @@
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\bin\Release\OpenFigmaToMTA.exe.config
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\bin\Release\OpenFigmaToMTA.exe
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\bin\Release\OpenFigmaToMTA.pdb
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\bin\Release\Newtonsoft.Json.dll
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\bin\Release\Newtonsoft.Json.xml
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.csproj.AssemblyReference.cache
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.Form1.resources
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.Properties.Resources.resources
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.csproj.GenerateResource.cache
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.csproj.CoreCompileInputs.cache
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.csproj.CopyComplete
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.exe
+C:\Users\Woz\Documents\GitHub\OpenFigmaToMTA\OpenFigmaToMTA\obj\Release\OpenFigmaToMTA.pdb

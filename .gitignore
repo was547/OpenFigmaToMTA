@@ -1,0 +1,7 @@
+
+*.lua
+OpenFigmaToMTA/bin/Debug/Key.txt
+*.pdb
+*.cache
+*.CopyComplete
+*.xml

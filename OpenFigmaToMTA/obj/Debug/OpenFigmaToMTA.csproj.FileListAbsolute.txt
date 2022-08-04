@@ -1,0 +1,14 @@
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.csproj.AssemblyReference.cache
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.Form1.resources
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.Properties.Resources.resources
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.csproj.GenerateResource.cache
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.csproj.CoreCompileInputs.cache
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\bin\Debug\OpenFigmaToMTA.exe.config
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\bin\Debug\OpenFigmaToMTA.exe
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\bin\Debug\OpenFigmaToMTA.pdb
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.csproj.CopyComplete
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.exe
+C:\Users\Woz\source\repos\OpenFigmaToMTA\OpenFigmaToMTA\obj\Debug\OpenFigmaToMTA.pdb
