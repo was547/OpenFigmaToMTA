@@ -28,6 +28,13 @@ namespace OpenFigmaToMTA
             _list.Add("local sW, sH = guiGetScreenSize()");
 
             Structs.Child parentObj = null;
+
+            if(_root.document.children.Count > 1)
+            {
+                _list.Add("-- REMOVE ALL GROUPING IN YOUR PROJECT TO CONTINUE!!!");
+                return;
+            }
+
             //Get parent window size
             foreach(var el in _root.document.children[0].children)
             {
@@ -44,6 +51,12 @@ namespace OpenFigmaToMTA
             if (parentObj == null)
             {
                 _list.Add("-- CAN'T FIND THE PARENT ELEMENT, TRY AGAIN!");
+                return;
+            }
+
+            if(parentObj.absoluteBoundingBox == null)
+            {
+                _list.Add("-- YOUR BACKGROUND IS INVALID, PLEASE SELECT THE MOST DEEP IMAGE");
                 return;
             }
 
@@ -73,6 +86,12 @@ namespace OpenFigmaToMTA
                             opacity = el.fills[0].opacity.GetValueOrDefault();
                         else
                             opacity = 1.0f;
+
+                        if(el.absoluteBoundingBox == null)
+                        {
+                            _list.Add(string.Format("   -- ELEMENT {0} IS INVALID, PLEASE CONFIGURE IT PROPERLY", el.name));
+                            continue;
+                        }
 
                         int val_0 = int.Parse(el.absoluteBoundingBox.x.ToString());
                         int val_1 = int.Parse(el.absoluteBoundingBox.y.ToString());
@@ -112,6 +131,12 @@ namespace OpenFigmaToMTA
                             opacity = el.fills[0].opacity.GetValueOrDefault();
                         else
                             opacity = 1.0f;
+
+                        if (el.absoluteBoundingBox == null)
+                        {
+                            _list.Add(string.Format("   -- ELEMENT {0} IS INVALID, PLEASE CONFIGURE IT PROPERLY", el.name));
+                            continue;
+                        }
 
                         int val_0 = int.Parse(el.absoluteBoundingBox.x.ToString());
                         int val_1 = int.Parse(el.absoluteBoundingBox.y.ToString());
@@ -156,6 +181,11 @@ namespace OpenFigmaToMTA
                     else
                         opacity = 1.0f;
 
+                    if (el.absoluteBoundingBox == null)
+                    {
+                        _list.Add(string.Format("   -- ELEMENT {0} IS INVALID, PLEASE CONFIGURE IT PROPERLY", el.name));
+                        continue;
+                    }
 
                     string val_0 = el.name;
                     int val_1 = int.Parse(el.absoluteBoundingBox.x.ToString());
