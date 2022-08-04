@@ -1,6 +1,12 @@
 Developed by Woz
 
+-----------------------------------
+
 DOWNLOAD : https://github.com/was547/OpenFigmaToMTA/releases/tag/Beta
+HOW TO GENERATE YOUR FIGMA ACCESS TOKEN: https://www.figma.com/developers/api#access-tokens
+COMO GERAR SEU TOKEN DE ACESSO FIGMA: https://www.figma.com/developers/api#access-tokens
+
+-----------------------------------
 
 This tool converts figma projects into LUA file with dxDraw functions, still under development and may have bugs.
 
