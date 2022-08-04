@@ -1,5 +1,7 @@
 Developed by Woz
 
+DOWNLOAD : https://github.com/was547/OpenFigmaToMTA/releases/tag/Beta
+
 This tool converts figma projects into LUA file with dxDraw functions, still under development and may have bugs.
 
 Requirements to compile:
