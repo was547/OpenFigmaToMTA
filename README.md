@@ -18,6 +18,8 @@ Any suggestions or bugs please open an issue here on this repository, I'll updat
 
 This project only supports: Rectangles, Text and Rectangles with image. Soon I'll add more functions.
 
+-----------------------------------
+
 *** PORTUGUESE
 
 Esta ferramenta converte projetos figma em arquivo LUA com funções dxDraw, ainda em desenvolvimento e pode ter bugs.
@@ -38,3 +40,6 @@ Qualquer sugestão ou bug por favor abra um issue aqui neste repositório, atual
 
 Este projeto suporta apenas: Retângulos, Texto e Retângulos com imagem. Em breve adicionarei mais funções.
 
+-----------------------------------
+
+DOWNLOAD : https://github.com/was547/OpenFigmaToMTA/releases/tag/Beta
