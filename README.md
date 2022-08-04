@@ -5,6 +5,7 @@ Developed by Woz
 - DOWNLOAD : https://github.com/was547/OpenFigmaToMTA/releases
 - HOW TO GENERATE YOUR FIGMA ACCESS TOKEN: https://www.figma.com/developers/api#access-tokens
 - COMO GERAR SEU TOKEN DE ACESSO FIGMA: https://www.figma.com/developers/api#access-tokens
+- TUTORIAL: https://youtu.be/7rg1VueHaog
 
 -----------------------------------
 
