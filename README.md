@@ -2,9 +2,9 @@ Developed by Woz
 
 -----------------------------------
 
-DOWNLOAD : https://github.com/was547/OpenFigmaToMTA/releases/tag/Beta_2
-HOW TO GENERATE YOUR FIGMA ACCESS TOKEN: https://www.figma.com/developers/api#access-tokens
-COMO GERAR SEU TOKEN DE ACESSO FIGMA: https://www.figma.com/developers/api#access-tokens
+- DOWNLOAD : https://github.com/was547/OpenFigmaToMTA/releases/tag/Beta_2
+- HOW TO GENERATE YOUR FIGMA ACCESS TOKEN: https://www.figma.com/developers/api#access-tokens
+- COMO GERAR SEU TOKEN DE ACESSO FIGMA: https://www.figma.com/developers/api#access-tokens
 
 -----------------------------------
 
@@ -50,4 +50,3 @@ Este projeto suporta apenas: Retângulos, Texto e Retângulos com imagem. Em bre
 
 -----------------------------------
 
-DOWNLOAD : https://github.com/was547/OpenFigmaToMTA/releases/tag/Beta_2
